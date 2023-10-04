@@ -10,6 +10,10 @@ cd bot-insta
 npm install
 npm start
 ```
+Em index.js não se esqueça de adicionar usuario e senha do instagram que você deseja automatizar. 
+Basta evitar ficar dando start e stop em periodos muito curtos, que o bot funcionará sem problemas.
+Ao parar o codigo ou desconectar, tenha o bom senso de aguardar alguns minutos antes de dar start novamente.
+
 
 Se você quiser testar o bot funcionando, basta testar em @bot.alequizao
 ```
