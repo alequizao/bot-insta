@@ -5,6 +5,8 @@ Ele esta usando uma api que é minha, não tem limite de tokens, pode usar o qua
 
 Instalação:
 ```
+git clone https://github.com/alequizao/bot-insta.git
+cd bot-insta
 npm install
 npm start
 ```
