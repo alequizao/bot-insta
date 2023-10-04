@@ -1,0 +1,17 @@
+{
+  "name": "bot-insta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insta.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "@alequizao",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/insta.js": "^1.6.1",
+    "axios": "^1.5.0",
+    "cpf-check": "^3.0.0"
+  }
+}
