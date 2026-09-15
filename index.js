@@ -1,3 +1,7 @@
+/*
+ * Bot Insta · Desenvolvido por Alequizao <alequizao.dev@gmail.com>
+ * https://github.com/alequizao · © 2026 Alequizao. Todos os direitos reservados.
+ */
 const Insta = require('@androz2091/insta.js');
 const axios = require('axios');
 
